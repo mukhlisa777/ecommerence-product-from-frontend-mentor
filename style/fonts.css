@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "kumbhSans";
+    src: url(../fonts/KumbhSans-Black.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "kumbhSans-light";
+    src: url(../fonts/KumbhSans-Light.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family:'Kumbh Sans';
+    src: url(../fonts/KumbhSans-Medium.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "kumbhSans-regular";
+    src: url(../fonts/KumbhSans-Regular.ttf);
+    font-weight: 400;
+}
